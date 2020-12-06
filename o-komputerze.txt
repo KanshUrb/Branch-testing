@@ -1,1 +1,54 @@
 Linux piotr-Lenovo 5.4.0-53-generic #59-Ubuntu SMP Wed Oct 21 09:38:44 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:       16268992 kB
+MemFree:          886924 kB
+MemAvailable:    4233428 kB
+Buffers:          298616 kB
+Cached:          4968124 kB
+SwapCached:        12036 kB
+Active:         11282092 kB
+Inactive:        3074316 kB
+Active(anon):    9149192 kB
+Inactive(anon):  1824260 kB
+Active(file):    2132900 kB
+Inactive(file):  1250056 kB
+Unevictable:      112140 kB
+Mlocked:              32 kB
+SwapTotal:      15624188 kB
+SwapFree:       15290164 kB
+Dirty:               428 kB
+Writeback:             0 kB
+AnonPages:       9195904 kB
+Mapped:          1770564 kB
+Shmem:           1945912 kB
+KReclaimable:     304620 kB
+Slab:             578792 kB
+SReclaimable:     304620 kB
+SUnreclaim:       274172 kB
+KernelStack:       27568 kB
+PageTables:        91016 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    23758684 kB
+Committed_AS:   25729324 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      101560 kB
+VmallocChunk:          0 kB
+Percpu:             8704 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      858816 kB
+DirectMap2M:    15790080 kB
+DirectMap1G:           0 kB
